@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gavri\\Desktop\\24-02-25-C# Project -With JWT 4\\RecipeWebSite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B150D20B-3A4C-49FD-9D13-B982B22E60AC}|RecipeWebSite.Service\\RecipeWebSite.Service.csproj|c:\\users\\gavri\\desktop\\24-02-25-c# project -with jwt 4\\recipewebsite\\recipewebsite.service\\recipeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B150D20B-3A4C-49FD-9D13-B982B22E60AC}|RecipeWebSite.Service\\RecipeWebSite.Service.csproj|solutionrelative:recipewebsite.service\\recipeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBB62A7-3605-4306-AE1A-165A1D32A208}|RecipeWebSite\\RecipeWebSite.csproj|c:\\users\\gavri\\desktop\\24-02-25-c# project -with jwt 4\\recipewebsite\\recipewebsite\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEBB62A7-3605-4306-AE1A-165A1D32A208}|RecipeWebSite\\RecipeWebSite.csproj|solutionrelative:recipewebsite\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B150D20B-3A4C-49FD-9D13-B982B22E60AC}|RecipeWebSite.Service\\RecipeWebSite.Service.csproj|c:\\users\\gavri\\desktop\\24-02-25-c# project -with jwt 4\\recipewebsite\\recipewebsite.service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B150D20B-3A4C-49FD-9D13-B982B22E60AC}|RecipeWebSite.Service\\RecipeWebSite.Service.csproj|solutionrelative:recipewebsite.service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBB62A7-3605-4306-AE1A-165A1D32A208}|RecipeWebSite\\RecipeWebSite.csproj|c:\\users\\gavri\\desktop\\24-02-25-c# project -with jwt 4\\recipewebsite\\recipewebsite\\mapping\\postmodelsmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEBB62A7-3605-4306-AE1A-165A1D32A208}|RecipeWebSite\\RecipeWebSite.csproj|solutionrelative:recipewebsite\\mapping\\postmodelsmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEBB62A7-3605-4306-AE1A-165A1D32A208}|RecipeWebSite\\RecipeWebSite.csproj|c:\\users\\gavri\\desktop\\24-02-25-c# project -with jwt 4\\recipewebsite\\recipewebsite\\models\\userpostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEBB62A7-3605-4306-AE1A-165A1D32A208}|RecipeWebSite\\RecipeWebSite.csproj|solutionrelative:recipewebsite\\models\\userpostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90F4A0F9-1DCE-4EB7-984D-49F71C850D8F}|RecipeWebStie.Core\\RecipeWebStie.Core.csproj|c:\\users\\gavri\\desktop\\24-02-25-c# project -with jwt 4\\recipewebsite\\recipewebstie.core\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90F4A0F9-1DCE-4EB7-984D-49F71C850D8F}|RecipeWebStie.Core\\RecipeWebStie.Core.csproj|solutionrelative:recipewebstie.core\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90F4A0F9-1DCE-4EB7-984D-49F71C850D8F}|RecipeWebStie.Core\\RecipeWebStie.Core.csproj|c:\\users\\gavri\\desktop\\24-02-25-c# project -with jwt 4\\recipewebsite\\recipewebstie.core\\dtos\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90F4A0F9-1DCE-4EB7-984D-49F71C850D8F}|RecipeWebStie.Core\\RecipeWebStie.Core.csproj|solutionrelative:recipewebstie.core\\dtos\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B150D20B-3A4C-49FD-9D13-B982B22E60AC}|RecipeWebSite.Service\\RecipeWebSite.Service.csproj|c:\\users\\gavri\\desktop\\24-02-25-c# project -with jwt 4\\recipewebsite\\recipewebsite.service\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B150D20B-3A4C-49FD-9D13-B982B22E60AC}|RecipeWebSite.Service\\RecipeWebSite.Service.csproj|solutionrelative:recipewebsite.service\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserPostModel.cs",
+              "DocumentMoniker": "C:\\Users\\gavri\\Desktop\\24-02-25-C# Project -With JWT 4\\RecipeWebSite\\RecipeWebSite\\Models\\UserPostModel.cs",
+              "RelativeDocumentMoniker": "RecipeWebSite\\Models\\UserPostModel.cs",
+              "ToolTip": "C:\\Users\\gavri\\Desktop\\24-02-25-C# Project -With JWT 4\\RecipeWebSite\\RecipeWebSite\\Models\\UserPostModel.cs",
+              "RelativeToolTip": "RecipeWebSite\\Models\\UserPostModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T20:46:39.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PostModelsMappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\gavri\\Desktop\\24-02-25-C# Project -With JWT 4\\RecipeWebSite\\RecipeWebSite\\Mapping\\PostModelsMappingProfile.cs",
+              "RelativeDocumentMoniker": "RecipeWebSite\\Mapping\\PostModelsMappingProfile.cs",
+              "ToolTip": "C:\\Users\\gavri\\Desktop\\24-02-25-C# Project -With JWT 4\\RecipeWebSite\\RecipeWebSite\\Mapping\\PostModelsMappingProfile.cs",
+              "RelativeToolTip": "RecipeWebSite\\Mapping\\PostModelsMappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T20:46:33.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\gavri\\Desktop\\24-02-25-C# Project -With JWT 4\\RecipeWebSite\\RecipeWebSite.Service\\UserService.cs",
+              "RelativeDocumentMoniker": "RecipeWebSite.Service\\UserService.cs",
+              "ToolTip": "C:\\Users\\gavri\\Desktop\\24-02-25-C# Project -With JWT 4\\RecipeWebSite\\RecipeWebSite.Service\\UserService.cs",
+              "RelativeToolTip": "RecipeWebSite.Service\\UserService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAwwB8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T20:45:36.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\gavri\\Desktop\\24-02-25-C# Project -With JWT 4\\RecipeWebSite\\RecipeWebSite\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "RecipeWebSite\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\gavri\\Desktop\\24-02-25-C# Project -With JWT 4\\RecipeWebSite\\RecipeWebSite\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "RecipeWebSite\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwEQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T20:17:13.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\gavri\\Desktop\\24-02-25-C# Project -With JWT 4\\RecipeWebSite\\RecipeWebStie.Core\\DTOs\\Models\\User.cs",
+              "RelativeDocumentMoniker": "RecipeWebStie.Core\\DTOs\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\gavri\\Desktop\\24-02-25-C# Project -With JWT 4\\RecipeWebSite\\RecipeWebStie.Core\\DTOs\\Models\\User.cs",
+              "RelativeToolTip": "RecipeWebStie.Core\\DTOs\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T19:49:40.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\gavri\\Desktop\\24-02-25-C# Project -With JWT 4\\RecipeWebSite\\RecipeWebStie.Core\\DTOs\\UserDto.cs",
+              "RelativeDocumentMoniker": "RecipeWebStie.Core\\DTOs\\UserDto.cs",
+              "ToolTip": "C:\\Users\\gavri\\Desktop\\24-02-25-C# Project -With JWT 4\\RecipeWebSite\\RecipeWebStie.Core\\DTOs\\UserDto.cs",
+              "RelativeToolTip": "RecipeWebStie.Core\\DTOs\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T19:49:37.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\gavri\\Desktop\\24-02-25-C# Project -With JWT 4\\RecipeWebSite\\RecipeWebSite.Service\\CategoryService.cs",
+              "RelativeDocumentMoniker": "RecipeWebSite.Service\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\gavri\\Desktop\\24-02-25-C# Project -With JWT 4\\RecipeWebSite\\RecipeWebSite.Service\\CategoryService.cs",
+              "RelativeToolTip": "RecipeWebSite.Service\\CategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T13:21:39.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RecipeService.cs",
+              "DocumentMoniker": "C:\\Users\\gavri\\Desktop\\24-02-25-C# Project -With JWT 4\\RecipeWebSite\\RecipeWebSite.Service\\RecipeService.cs",
+              "RelativeDocumentMoniker": "RecipeWebSite.Service\\RecipeService.cs",
+              "ToolTip": "C:\\Users\\gavri\\Desktop\\24-02-25-C# Project -With JWT 4\\RecipeWebSite\\RecipeWebSite.Service\\RecipeService.cs",
+              "RelativeToolTip": "RecipeWebSite.Service\\RecipeService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwB8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T12:24:28.03Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+C:\Users\gavri\Desktop\RecipWebSite-C#\RecipeWebSite\RecipeWebStie.Core\bin\Debug\net6.0\RecipeWebStie.Core.deps.json
+C:\Users\gavri\Desktop\RecipWebSite-C#\RecipeWebSite\RecipeWebStie.Core\bin\Debug\net6.0\RecipeWebStie.Core.dll
+C:\Users\gavri\Desktop\RecipWebSite-C#\RecipeWebSite\RecipeWebStie.Core\bin\Debug\net6.0\RecipeWebStie.Core.pdb
+C:\Users\gavri\Desktop\RecipWebSite-C#\RecipeWebSite\RecipeWebStie.Core\obj\Debug\net6.0\RecipeWebStie.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gavri\Desktop\RecipWebSite-C#\RecipeWebSite\RecipeWebStie.Core\obj\Debug\net6.0\RecipeWebStie.Core.AssemblyInfoInputs.cache
+C:\Users\gavri\Desktop\RecipWebSite-C#\RecipeWebSite\RecipeWebStie.Core\obj\Debug\net6.0\RecipeWebStie.Core.AssemblyInfo.cs
+C:\Users\gavri\Desktop\RecipWebSite-C#\RecipeWebSite\RecipeWebStie.Core\obj\Debug\net6.0\RecipeWebStie.Core.csproj.CoreCompileInputs.cache
+C:\Users\gavri\Desktop\RecipWebSite-C#\RecipeWebSite\RecipeWebStie.Core\obj\Debug\net6.0\RecipeWebStie.Core.dll
+C:\Users\gavri\Desktop\RecipWebSite-C#\RecipeWebSite\RecipeWebStie.Core\obj\Debug\net6.0\refint\RecipeWebStie.Core.dll
+C:\Users\gavri\Desktop\RecipWebSite-C#\RecipeWebSite\RecipeWebStie.Core\obj\Debug\net6.0\RecipeWebStie.Core.pdb
+C:\Users\gavri\Desktop\RecipWebSite-C#\RecipeWebSite\RecipeWebStie.Core\obj\Debug\net6.0\ref\RecipeWebStie.Core.dll
+C:\Users\gavri\Desktop\copyRecipWebsiteC#\RecipeWebSite\RecipeWebStie.Core\bin\Debug\net6.0\RecipeWebStie.Core.deps.json
+C:\Users\gavri\Desktop\copyRecipWebsiteC#\RecipeWebSite\RecipeWebStie.Core\bin\Debug\net6.0\RecipeWebStie.Core.dll
+C:\Users\gavri\Desktop\copyRecipWebsiteC#\RecipeWebSite\RecipeWebStie.Core\bin\Debug\net6.0\RecipeWebStie.Core.pdb
+C:\Users\gavri\Desktop\copyRecipWebsiteC#\RecipeWebSite\RecipeWebStie.Core\obj\Debug\net6.0\RecipeWebStie.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gavri\Desktop\copyRecipWebsiteC#\RecipeWebSite\RecipeWebStie.Core\obj\Debug\net6.0\RecipeWebStie.Core.AssemblyInfoInputs.cache
+C:\Users\gavri\Desktop\copyRecipWebsiteC#\RecipeWebSite\RecipeWebStie.Core\obj\Debug\net6.0\RecipeWebStie.Core.AssemblyInfo.cs
+C:\Users\gavri\Desktop\copyRecipWebsiteC#\RecipeWebSite\RecipeWebStie.Core\obj\Debug\net6.0\RecipeWebStie.Core.csproj.CoreCompileInputs.cache
+C:\Users\gavri\Desktop\copyRecipWebsiteC#\RecipeWebSite\RecipeWebStie.Core\obj\Debug\net6.0\RecipeWebStie.Core.dll
+C:\Users\gavri\Desktop\copyRecipWebsiteC#\RecipeWebSite\RecipeWebStie.Core\obj\Debug\net6.0\refint\RecipeWebStie.Core.dll
+C:\Users\gavri\Desktop\copyRecipWebsiteC#\RecipeWebSite\RecipeWebStie.Core\obj\Debug\net6.0\RecipeWebStie.Core.pdb
+C:\Users\gavri\Desktop\copyRecipWebsiteC#\RecipeWebSite\RecipeWebStie.Core\obj\Debug\net6.0\ref\RecipeWebStie.Core.dll
+C:\Users\gavri\Desktop\copyRecipWebsiteC#\RecipeWebSite\RecipeWebStie.Core\obj\Debug\net6.0\RecipeWebStie.Core.csproj.AssemblyReference.cache
+C:\Users\gavri\Desktop\16-02-25-RecipWebsiteC#\RecipeWebSite\RecipeWebStie.Core\bin\Debug\net6.0\RecipeWebStie.Core.deps.json
+C:\Users\gavri\Desktop\16-02-25-RecipWebsiteC#\RecipeWebSite\RecipeWebStie.Core\bin\Debug\net6.0\RecipeWebStie.Core.dll
+C:\Users\gavri\Desktop\16-02-25-RecipWebsiteC#\RecipeWebSite\RecipeWebStie.Core\bin\Debug\net6.0\RecipeWebStie.Core.pdb
+C:\Users\gavri\Desktop\16-02-25-RecipWebsiteC#\RecipeWebSite\RecipeWebStie.Core\obj\Debug\net6.0\RecipeWebStie.Core.csproj.AssemblyReference.cache
+C:\Users\gavri\Desktop\16-02-25-RecipWebsiteC#\RecipeWebSite\RecipeWebStie.Core\obj\Debug\net6.0\RecipeWebStie.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gavri\Desktop\16-02-25-RecipWebsiteC#\RecipeWebSite\RecipeWebStie.Core\obj\Debug\net6.0\RecipeWebStie.Core.AssemblyInfoInputs.cache
+C:\Users\gavri\Desktop\16-02-25-RecipWebsiteC#\RecipeWebSite\RecipeWebStie.Core\obj\Debug\net6.0\RecipeWebStie.Core.AssemblyInfo.cs
+C:\Users\gavri\Desktop\16-02-25-RecipWebsiteC#\RecipeWebSite\RecipeWebStie.Core\obj\Debug\net6.0\RecipeWebStie.Core.csproj.CoreCompileInputs.cache
+C:\Users\gavri\Desktop\16-02-25-RecipWebsiteC#\RecipeWebSite\RecipeWebStie.Core\obj\Debug\net6.0\RecipeWebStie.Core.dll
+C:\Users\gavri\Desktop\16-02-25-RecipWebsiteC#\RecipeWebSite\RecipeWebStie.Core\obj\Debug\net6.0\refint\RecipeWebStie.Core.dll
+C:\Users\gavri\Desktop\16-02-25-RecipWebsiteC#\RecipeWebSite\RecipeWebStie.Core\obj\Debug\net6.0\RecipeWebStie.Core.pdb
+C:\Users\gavri\Desktop\16-02-25-RecipWebsiteC#\RecipeWebSite\RecipeWebStie.Core\obj\Debug\net6.0\ref\RecipeWebStie.Core.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With Algo\RecipeWebSite\RecipeWebStie.Core\bin\Debug\net6.0\RecipeWebStie.Core.deps.json
+C:\Users\gavri\Desktop\24-02-25-C# Project -With Algo\RecipeWebSite\RecipeWebStie.Core\bin\Debug\net6.0\RecipeWebStie.Core.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With Algo\RecipeWebSite\RecipeWebStie.Core\bin\Debug\net6.0\RecipeWebStie.Core.pdb
+C:\Users\gavri\Desktop\24-02-25-C# Project -With Algo\RecipeWebSite\RecipeWebStie.Core\obj\Debug\net6.0\RecipeWebStie.Core.csproj.AssemblyReference.cache
+C:\Users\gavri\Desktop\24-02-25-C# Project -With Algo\RecipeWebSite\RecipeWebStie.Core\obj\Debug\net6.0\RecipeWebStie.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gavri\Desktop\24-02-25-C# Project -With Algo\RecipeWebSite\RecipeWebStie.Core\obj\Debug\net6.0\RecipeWebStie.Core.AssemblyInfoInputs.cache
+C:\Users\gavri\Desktop\24-02-25-C# Project -With Algo\RecipeWebSite\RecipeWebStie.Core\obj\Debug\net6.0\RecipeWebStie.Core.AssemblyInfo.cs
+C:\Users\gavri\Desktop\24-02-25-C# Project -With Algo\RecipeWebSite\RecipeWebStie.Core\obj\Debug\net6.0\RecipeWebStie.Core.csproj.CoreCompileInputs.cache
+C:\Users\gavri\Desktop\24-02-25-C# Project -With Algo\RecipeWebSite\RecipeWebStie.Core\obj\Debug\net6.0\RecipeWebStie.Core.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With Algo\RecipeWebSite\RecipeWebStie.Core\obj\Debug\net6.0\refint\RecipeWebStie.Core.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With Algo\RecipeWebSite\RecipeWebStie.Core\obj\Debug\net6.0\RecipeWebStie.Core.pdb
+C:\Users\gavri\Desktop\24-02-25-C# Project -With Algo\RecipeWebSite\RecipeWebStie.Core\obj\Debug\net6.0\ref\RecipeWebStie.Core.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT - Copy\RecipeWebSite\RecipeWebStie.Core\bin\Debug\net6.0\RecipeWebStie.Core.deps.json
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT - Copy\RecipeWebSite\RecipeWebStie.Core\bin\Debug\net6.0\RecipeWebStie.Core.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT - Copy\RecipeWebSite\RecipeWebStie.Core\bin\Debug\net6.0\RecipeWebStie.Core.pdb
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT - Copy\RecipeWebSite\RecipeWebStie.Core\obj\Debug\net6.0\RecipeWebStie.Core.csproj.AssemblyReference.cache
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT - Copy\RecipeWebSite\RecipeWebStie.Core\obj\Debug\net6.0\RecipeWebStie.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT - Copy\RecipeWebSite\RecipeWebStie.Core\obj\Debug\net6.0\RecipeWebStie.Core.AssemblyInfoInputs.cache
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT - Copy\RecipeWebSite\RecipeWebStie.Core\obj\Debug\net6.0\RecipeWebStie.Core.AssemblyInfo.cs
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT - Copy\RecipeWebSite\RecipeWebStie.Core\obj\Debug\net6.0\RecipeWebStie.Core.csproj.CoreCompileInputs.cache
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT - Copy\RecipeWebSite\RecipeWebStie.Core\obj\Debug\net6.0\RecipeWebStie.Core.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT - Copy\RecipeWebSite\RecipeWebStie.Core\obj\Debug\net6.0\refint\RecipeWebStie.Core.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT - Copy\RecipeWebSite\RecipeWebStie.Core\obj\Debug\net6.0\RecipeWebStie.Core.pdb
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT - Copy\RecipeWebSite\RecipeWebStie.Core\obj\Debug\net6.0\ref\RecipeWebStie.Core.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT -2\RecipeWebSite\RecipeWebStie.Core\bin\Debug\net6.0\RecipeWebStie.Core.deps.json
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT -2\RecipeWebSite\RecipeWebStie.Core\bin\Debug\net6.0\RecipeWebStie.Core.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT -2\RecipeWebSite\RecipeWebStie.Core\bin\Debug\net6.0\RecipeWebStie.Core.pdb
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT -2\RecipeWebSite\RecipeWebStie.Core\obj\Debug\net6.0\RecipeWebStie.Core.csproj.AssemblyReference.cache
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT -2\RecipeWebSite\RecipeWebStie.Core\obj\Debug\net6.0\RecipeWebStie.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT -2\RecipeWebSite\RecipeWebStie.Core\obj\Debug\net6.0\RecipeWebStie.Core.AssemblyInfoInputs.cache
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT -2\RecipeWebSite\RecipeWebStie.Core\obj\Debug\net6.0\RecipeWebStie.Core.AssemblyInfo.cs
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT -2\RecipeWebSite\RecipeWebStie.Core\obj\Debug\net6.0\RecipeWebStie.Core.csproj.CoreCompileInputs.cache
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT -2\RecipeWebSite\RecipeWebStie.Core\obj\Debug\net6.0\RecipeWebStie.Core.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT -2\RecipeWebSite\RecipeWebStie.Core\obj\Debug\net6.0\refint\RecipeWebStie.Core.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT -2\RecipeWebSite\RecipeWebStie.Core\obj\Debug\net6.0\RecipeWebStie.Core.pdb
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT -2\RecipeWebSite\RecipeWebStie.Core\obj\Debug\net6.0\ref\RecipeWebStie.Core.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 3\RecipeWebSite\RecipeWebStie.Core\bin\Debug\net6.0\RecipeWebStie.Core.deps.json
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 3\RecipeWebSite\RecipeWebStie.Core\bin\Debug\net6.0\RecipeWebStie.Core.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 3\RecipeWebSite\RecipeWebStie.Core\bin\Debug\net6.0\RecipeWebStie.Core.pdb
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 3\RecipeWebSite\RecipeWebStie.Core\obj\Debug\net6.0\RecipeWebStie.Core.csproj.AssemblyReference.cache
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 3\RecipeWebSite\RecipeWebStie.Core\obj\Debug\net6.0\RecipeWebStie.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 3\RecipeWebSite\RecipeWebStie.Core\obj\Debug\net6.0\RecipeWebStie.Core.AssemblyInfoInputs.cache
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 3\RecipeWebSite\RecipeWebStie.Core\obj\Debug\net6.0\RecipeWebStie.Core.AssemblyInfo.cs
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 3\RecipeWebSite\RecipeWebStie.Core\obj\Debug\net6.0\RecipeWebStie.Core.csproj.CoreCompileInputs.cache
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 3\RecipeWebSite\RecipeWebStie.Core\obj\Debug\net6.0\RecipeWebStie.Core.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 3\RecipeWebSite\RecipeWebStie.Core\obj\Debug\net6.0\refint\RecipeWebStie.Core.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 3\RecipeWebSite\RecipeWebStie.Core\obj\Debug\net6.0\RecipeWebStie.Core.pdb
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 3\RecipeWebSite\RecipeWebStie.Core\obj\Debug\net6.0\ref\RecipeWebStie.Core.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 4\RecipeWebSite\RecipeWebStie.Core\bin\Debug\net6.0\RecipeWebStie.Core.deps.json
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 4\RecipeWebSite\RecipeWebStie.Core\bin\Debug\net6.0\RecipeWebStie.Core.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 4\RecipeWebSite\RecipeWebStie.Core\bin\Debug\net6.0\RecipeWebStie.Core.pdb
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 4\RecipeWebSite\RecipeWebStie.Core\obj\Debug\net6.0\RecipeWebStie.Core.csproj.AssemblyReference.cache
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 4\RecipeWebSite\RecipeWebStie.Core\obj\Debug\net6.0\RecipeWebStie.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 4\RecipeWebSite\RecipeWebStie.Core\obj\Debug\net6.0\RecipeWebStie.Core.AssemblyInfoInputs.cache
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 4\RecipeWebSite\RecipeWebStie.Core\obj\Debug\net6.0\RecipeWebStie.Core.AssemblyInfo.cs
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 4\RecipeWebSite\RecipeWebStie.Core\obj\Debug\net6.0\RecipeWebStie.Core.csproj.CoreCompileInputs.cache
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 4\RecipeWebSite\RecipeWebStie.Core\obj\Debug\net6.0\RecipeWebStie.Core.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 4\RecipeWebSite\RecipeWebStie.Core\obj\Debug\net6.0\refint\RecipeWebStie.Core.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 4\RecipeWebSite\RecipeWebStie.Core\obj\Debug\net6.0\RecipeWebStie.Core.pdb
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 4\RecipeWebSite\RecipeWebStie.Core\obj\Debug\net6.0\ref\RecipeWebStie.Core.dll

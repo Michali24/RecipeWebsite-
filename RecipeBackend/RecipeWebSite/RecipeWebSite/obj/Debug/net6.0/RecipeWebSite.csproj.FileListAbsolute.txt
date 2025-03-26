@@ -1,0 +1,552 @@
+C:\Users\gavri\Desktop\RecipWebSite-C#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\gavri\Desktop\RecipWebSite-C#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\appsettings.json
+C:\Users\gavri\Desktop\RecipWebSite-C#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\RecipeWebSite.staticwebassets.endpoints.json
+C:\Users\gavri\Desktop\RecipWebSite-C#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\RecipeWebSite.exe
+C:\Users\gavri\Desktop\RecipWebSite-C#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\RecipeWebSite.deps.json
+C:\Users\gavri\Desktop\RecipWebSite-C#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\RecipeWebSite.runtimeconfig.json
+C:\Users\gavri\Desktop\RecipWebSite-C#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\RecipeWebSite.dll
+C:\Users\gavri\Desktop\RecipWebSite-C#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\RecipeWebSite.pdb
+C:\Users\gavri\Desktop\RecipWebSite-C#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\gavri\Desktop\RecipWebSite-C#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\gavri\Desktop\RecipWebSite-C#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\gavri\Desktop\RecipWebSite-C#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\gavri\Desktop\RecipWebSite-C#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\gavri\Desktop\RecipWebSite-C#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\gavri\Desktop\RecipWebSite-C#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\RecipeWebSite.Service.dll
+C:\Users\gavri\Desktop\RecipWebSite-C#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\RecipeWebStie.Core.dll
+C:\Users\gavri\Desktop\RecipWebSite-C#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\RecipeWebStie.Data.dll
+C:\Users\gavri\Desktop\RecipWebSite-C#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\RecipeWebSite.Service.pdb
+C:\Users\gavri\Desktop\RecipWebSite-C#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\RecipeWebStie.Core.pdb
+C:\Users\gavri\Desktop\RecipWebSite-C#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\RecipeWebStie.Data.pdb
+C:\Users\gavri\Desktop\RecipWebSite-C#\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\RecipeWebSite.csproj.AssemblyReference.cache
+C:\Users\gavri\Desktop\RecipWebSite-C#\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\RecipeWebSite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gavri\Desktop\RecipWebSite-C#\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\RecipeWebSite.AssemblyInfoInputs.cache
+C:\Users\gavri\Desktop\RecipWebSite-C#\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\RecipeWebSite.AssemblyInfo.cs
+C:\Users\gavri\Desktop\RecipWebSite-C#\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\RecipeWebSite.csproj.CoreCompileInputs.cache
+C:\Users\gavri\Desktop\RecipWebSite-C#\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\RecipeWebSite.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\gavri\Desktop\RecipWebSite-C#\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\RecipeWebSite.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gavri\Desktop\RecipWebSite-C#\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\scopedcss\bundle\RecipeWebSite.styles.css
+C:\Users\gavri\Desktop\RecipWebSite-C#\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\gavri\Desktop\RecipWebSite-C#\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\gavri\Desktop\RecipWebSite-C#\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+C:\Users\gavri\Desktop\RecipWebSite-C#\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\staticwebassets\msbuild.RecipeWebSite.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\gavri\Desktop\RecipWebSite-C#\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\staticwebassets\msbuild.RecipeWebSite.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\gavri\Desktop\RecipWebSite-C#\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\staticwebassets\msbuild.build.RecipeWebSite.props
+C:\Users\gavri\Desktop\RecipWebSite-C#\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RecipeWebSite.props
+C:\Users\gavri\Desktop\RecipWebSite-C#\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.RecipeWebSite.props
+C:\Users\gavri\Desktop\RecipWebSite-C#\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\gavri\Desktop\RecipWebSite-C#\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+C:\Users\gavri\Desktop\RecipWebSite-C#\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\RecipeWe.554C6D8D.Up2Date
+C:\Users\gavri\Desktop\RecipWebSite-C#\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\RecipeWebSite.dll
+C:\Users\gavri\Desktop\RecipWebSite-C#\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\refint\RecipeWebSite.dll
+C:\Users\gavri\Desktop\RecipWebSite-C#\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\RecipeWebSite.pdb
+C:\Users\gavri\Desktop\RecipWebSite-C#\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\RecipeWebSite.genruntimeconfig.cache
+C:\Users\gavri\Desktop\RecipWebSite-C#\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\ref\RecipeWebSite.dll
+C:\Users\gavri\Desktop\RecipWebSite-C#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Humanizer.dll
+C:\Users\gavri\Desktop\RecipWebSite-C#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\gavri\Desktop\RecipWebSite-C#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\gavri\Desktop\RecipWebSite-C#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\gavri\Desktop\RecipWebSite-C#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\gavri\Desktop\RecipWebSite-C#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\gavri\Desktop\RecipWebSite-C#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\gavri\Desktop\RecipWebSite-C#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\gavri\Desktop\RecipWebSite-C#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\gavri\Desktop\RecipWebSite-C#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\gavri\Desktop\RecipWebSite-C#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\gavri\Desktop\RecipWebSite-C#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\gavri\Desktop\RecipWebSite-C#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\gavri\Desktop\RecipWebSite-C#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\gavri\Desktop\RecipWebSite-C#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\gavri\Desktop\RecipWebSite-C#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\gavri\Desktop\RecipWebSite-C#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gavri\Desktop\RecipWebSite-C#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\gavri\Desktop\RecipWebSite-C#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\gavri\Desktop\RecipWebSite-C#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\gavri\Desktop\RecipWebSite-C#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\gavri\Desktop\RecipWebSite-C#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gavri\Desktop\RecipWebSite-C#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gavri\Desktop\RecipWebSite-C#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gavri\Desktop\RecipWebSite-C#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gavri\Desktop\RecipWebSite-C#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\gavri\Desktop\RecipWebSite-C#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\gavri\Desktop\RecipWebSite-C#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\gavri\Desktop\RecipWebSite-C#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\gavri\Desktop\RecipWebSite-C#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gavri\Desktop\RecipWebSite-C#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\gavri\Desktop\copyRecipWebsiteC#\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\RecipeWebSite.csproj.AssemblyReference.cache
+C:\Users\gavri\Desktop\copyRecipWebsiteC#\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\RecipeWebSite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gavri\Desktop\copyRecipWebsiteC#\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\RecipeWebSite.AssemblyInfoInputs.cache
+C:\Users\gavri\Desktop\copyRecipWebsiteC#\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\RecipeWebSite.AssemblyInfo.cs
+C:\Users\gavri\Desktop\copyRecipWebsiteC#\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\RecipeWebSite.csproj.CoreCompileInputs.cache
+C:\Users\gavri\Desktop\copyRecipWebsiteC#\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\RecipeWebSite.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\gavri\Desktop\copyRecipWebsiteC#\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\RecipeWebSite.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gavri\Desktop\16-02-25-RecipWebsiteC#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\gavri\Desktop\16-02-25-RecipWebsiteC#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\appsettings.json
+C:\Users\gavri\Desktop\16-02-25-RecipWebsiteC#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\RecipeWebSite.staticwebassets.endpoints.json
+C:\Users\gavri\Desktop\16-02-25-RecipWebsiteC#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\RecipeWebSite.exe
+C:\Users\gavri\Desktop\16-02-25-RecipWebsiteC#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\RecipeWebSite.deps.json
+C:\Users\gavri\Desktop\16-02-25-RecipWebsiteC#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\RecipeWebSite.runtimeconfig.json
+C:\Users\gavri\Desktop\16-02-25-RecipWebsiteC#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\RecipeWebSite.dll
+C:\Users\gavri\Desktop\16-02-25-RecipWebsiteC#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\RecipeWebSite.pdb
+C:\Users\gavri\Desktop\16-02-25-RecipWebsiteC#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\gavri\Desktop\16-02-25-RecipWebsiteC#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\gavri\Desktop\16-02-25-RecipWebsiteC#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Humanizer.dll
+C:\Users\gavri\Desktop\16-02-25-RecipWebsiteC#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\gavri\Desktop\16-02-25-RecipWebsiteC#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\gavri\Desktop\16-02-25-RecipWebsiteC#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\gavri\Desktop\16-02-25-RecipWebsiteC#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\gavri\Desktop\16-02-25-RecipWebsiteC#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\gavri\Desktop\16-02-25-RecipWebsiteC#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\gavri\Desktop\16-02-25-RecipWebsiteC#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\gavri\Desktop\16-02-25-RecipWebsiteC#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\gavri\Desktop\16-02-25-RecipWebsiteC#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\gavri\Desktop\16-02-25-RecipWebsiteC#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\gavri\Desktop\16-02-25-RecipWebsiteC#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\gavri\Desktop\16-02-25-RecipWebsiteC#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\gavri\Desktop\16-02-25-RecipWebsiteC#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\gavri\Desktop\16-02-25-RecipWebsiteC#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\gavri\Desktop\16-02-25-RecipWebsiteC#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\gavri\Desktop\16-02-25-RecipWebsiteC#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\gavri\Desktop\16-02-25-RecipWebsiteC#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\gavri\Desktop\16-02-25-RecipWebsiteC#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\gavri\Desktop\16-02-25-RecipWebsiteC#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\gavri\Desktop\16-02-25-RecipWebsiteC#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\gavri\Desktop\16-02-25-RecipWebsiteC#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\gavri\Desktop\16-02-25-RecipWebsiteC#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gavri\Desktop\16-02-25-RecipWebsiteC#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\gavri\Desktop\16-02-25-RecipWebsiteC#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\gavri\Desktop\16-02-25-RecipWebsiteC#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\gavri\Desktop\16-02-25-RecipWebsiteC#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\gavri\Desktop\16-02-25-RecipWebsiteC#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gavri\Desktop\16-02-25-RecipWebsiteC#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gavri\Desktop\16-02-25-RecipWebsiteC#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gavri\Desktop\16-02-25-RecipWebsiteC#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gavri\Desktop\16-02-25-RecipWebsiteC#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\gavri\Desktop\16-02-25-RecipWebsiteC#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\gavri\Desktop\16-02-25-RecipWebsiteC#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\gavri\Desktop\16-02-25-RecipWebsiteC#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\gavri\Desktop\16-02-25-RecipWebsiteC#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gavri\Desktop\16-02-25-RecipWebsiteC#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\gavri\Desktop\16-02-25-RecipWebsiteC#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\RecipeWebSite.Service.dll
+C:\Users\gavri\Desktop\16-02-25-RecipWebsiteC#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\RecipeWebStie.Core.dll
+C:\Users\gavri\Desktop\16-02-25-RecipWebsiteC#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\RecipeWebStie.Data.dll
+C:\Users\gavri\Desktop\16-02-25-RecipWebsiteC#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\RecipeWebSite.Service.pdb
+C:\Users\gavri\Desktop\16-02-25-RecipWebsiteC#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\RecipeWebStie.Core.pdb
+C:\Users\gavri\Desktop\16-02-25-RecipWebsiteC#\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\RecipeWebStie.Data.pdb
+C:\Users\gavri\Desktop\16-02-25-RecipWebsiteC#\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\RecipeWebSite.csproj.AssemblyReference.cache
+C:\Users\gavri\Desktop\16-02-25-RecipWebsiteC#\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\RecipeWebSite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gavri\Desktop\16-02-25-RecipWebsiteC#\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\RecipeWebSite.AssemblyInfoInputs.cache
+C:\Users\gavri\Desktop\16-02-25-RecipWebsiteC#\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\RecipeWebSite.AssemblyInfo.cs
+C:\Users\gavri\Desktop\16-02-25-RecipWebsiteC#\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\RecipeWebSite.csproj.CoreCompileInputs.cache
+C:\Users\gavri\Desktop\16-02-25-RecipWebsiteC#\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\RecipeWebSite.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\gavri\Desktop\16-02-25-RecipWebsiteC#\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\RecipeWebSite.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gavri\Desktop\16-02-25-RecipWebsiteC#\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\scopedcss\bundle\RecipeWebSite.styles.css
+C:\Users\gavri\Desktop\16-02-25-RecipWebsiteC#\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\gavri\Desktop\16-02-25-RecipWebsiteC#\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\gavri\Desktop\16-02-25-RecipWebsiteC#\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+C:\Users\gavri\Desktop\16-02-25-RecipWebsiteC#\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\staticwebassets\msbuild.RecipeWebSite.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\gavri\Desktop\16-02-25-RecipWebsiteC#\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\staticwebassets\msbuild.RecipeWebSite.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\gavri\Desktop\16-02-25-RecipWebsiteC#\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\staticwebassets\msbuild.build.RecipeWebSite.props
+C:\Users\gavri\Desktop\16-02-25-RecipWebsiteC#\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RecipeWebSite.props
+C:\Users\gavri\Desktop\16-02-25-RecipWebsiteC#\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.RecipeWebSite.props
+C:\Users\gavri\Desktop\16-02-25-RecipWebsiteC#\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\gavri\Desktop\16-02-25-RecipWebsiteC#\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+C:\Users\gavri\Desktop\16-02-25-RecipWebsiteC#\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\RecipeWe.554C6D8D.Up2Date
+C:\Users\gavri\Desktop\16-02-25-RecipWebsiteC#\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\RecipeWebSite.dll
+C:\Users\gavri\Desktop\16-02-25-RecipWebsiteC#\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\refint\RecipeWebSite.dll
+C:\Users\gavri\Desktop\16-02-25-RecipWebsiteC#\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\RecipeWebSite.pdb
+C:\Users\gavri\Desktop\16-02-25-RecipWebsiteC#\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\RecipeWebSite.genruntimeconfig.cache
+C:\Users\gavri\Desktop\16-02-25-RecipWebsiteC#\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\ref\RecipeWebSite.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With Algo\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\gavri\Desktop\24-02-25-C# Project -With Algo\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\appsettings.json
+C:\Users\gavri\Desktop\24-02-25-C# Project -With Algo\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\RecipeWebSite.staticwebassets.endpoints.json
+C:\Users\gavri\Desktop\24-02-25-C# Project -With Algo\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\RecipeWebSite.exe
+C:\Users\gavri\Desktop\24-02-25-C# Project -With Algo\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\RecipeWebSite.deps.json
+C:\Users\gavri\Desktop\24-02-25-C# Project -With Algo\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\RecipeWebSite.runtimeconfig.json
+C:\Users\gavri\Desktop\24-02-25-C# Project -With Algo\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\RecipeWebSite.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With Algo\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\RecipeWebSite.pdb
+C:\Users\gavri\Desktop\24-02-25-C# Project -With Algo\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With Algo\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With Algo\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Humanizer.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With Algo\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With Algo\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With Algo\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With Algo\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With Algo\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With Algo\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With Algo\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With Algo\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With Algo\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With Algo\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With Algo\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With Algo\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With Algo\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With Algo\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With Algo\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With Algo\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With Algo\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With Algo\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With Algo\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With Algo\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With Algo\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With Algo\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With Algo\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With Algo\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With Algo\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With Algo\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With Algo\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With Algo\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With Algo\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With Algo\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With Algo\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With Algo\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With Algo\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With Algo\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With Algo\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With Algo\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With Algo\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\RecipeWebSite.Service.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With Algo\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\RecipeWebStie.Core.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With Algo\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\RecipeWebStie.Data.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With Algo\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\RecipeWebSite.Service.pdb
+C:\Users\gavri\Desktop\24-02-25-C# Project -With Algo\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\RecipeWebStie.Core.pdb
+C:\Users\gavri\Desktop\24-02-25-C# Project -With Algo\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\RecipeWebStie.Data.pdb
+C:\Users\gavri\Desktop\24-02-25-C# Project -With Algo\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\RecipeWebSite.csproj.AssemblyReference.cache
+C:\Users\gavri\Desktop\24-02-25-C# Project -With Algo\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\RecipeWebSite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gavri\Desktop\24-02-25-C# Project -With Algo\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\RecipeWebSite.AssemblyInfoInputs.cache
+C:\Users\gavri\Desktop\24-02-25-C# Project -With Algo\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\RecipeWebSite.AssemblyInfo.cs
+C:\Users\gavri\Desktop\24-02-25-C# Project -With Algo\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\RecipeWebSite.csproj.CoreCompileInputs.cache
+C:\Users\gavri\Desktop\24-02-25-C# Project -With Algo\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\RecipeWebSite.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\gavri\Desktop\24-02-25-C# Project -With Algo\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\RecipeWebSite.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gavri\Desktop\24-02-25-C# Project -With Algo\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\scopedcss\bundle\RecipeWebSite.styles.css
+C:\Users\gavri\Desktop\24-02-25-C# Project -With Algo\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\gavri\Desktop\24-02-25-C# Project -With Algo\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\gavri\Desktop\24-02-25-C# Project -With Algo\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+C:\Users\gavri\Desktop\24-02-25-C# Project -With Algo\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\staticwebassets\msbuild.RecipeWebSite.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\gavri\Desktop\24-02-25-C# Project -With Algo\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\staticwebassets\msbuild.RecipeWebSite.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\gavri\Desktop\24-02-25-C# Project -With Algo\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\staticwebassets\msbuild.build.RecipeWebSite.props
+C:\Users\gavri\Desktop\24-02-25-C# Project -With Algo\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RecipeWebSite.props
+C:\Users\gavri\Desktop\24-02-25-C# Project -With Algo\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.RecipeWebSite.props
+C:\Users\gavri\Desktop\24-02-25-C# Project -With Algo\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\gavri\Desktop\24-02-25-C# Project -With Algo\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+C:\Users\gavri\Desktop\24-02-25-C# Project -With Algo\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\RecipeWe.554C6D8D.Up2Date
+C:\Users\gavri\Desktop\24-02-25-C# Project -With Algo\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\RecipeWebSite.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With Algo\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\refint\RecipeWebSite.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With Algo\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\RecipeWebSite.pdb
+C:\Users\gavri\Desktop\24-02-25-C# Project -With Algo\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\RecipeWebSite.genruntimeconfig.cache
+C:\Users\gavri\Desktop\24-02-25-C# Project -With Algo\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\ref\RecipeWebSite.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT - Copy\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\RecipeWebSite.csproj.AssemblyReference.cache
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT - Copy\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\RecipeWebSite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT - Copy\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\RecipeWebSite.AssemblyInfoInputs.cache
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT - Copy\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\RecipeWebSite.AssemblyInfo.cs
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT - Copy\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\RecipeWebSite.csproj.CoreCompileInputs.cache
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT - Copy\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\RecipeWebSite.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT - Copy\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\RecipeWebSite.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT - Copy\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\RecipeWebSite.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT - Copy\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\refint\RecipeWebSite.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT - Copy\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\RecipeWebSite.pdb
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT - Copy\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT - Copy\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\appsettings.json
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT - Copy\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\RecipeWebSite.staticwebassets.endpoints.json
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT - Copy\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\RecipeWebSite.exe
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT - Copy\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\RecipeWebSite.deps.json
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT - Copy\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\RecipeWebSite.runtimeconfig.json
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT - Copy\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\RecipeWebSite.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT - Copy\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\RecipeWebSite.pdb
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT - Copy\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT - Copy\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT - Copy\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Humanizer.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT - Copy\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT - Copy\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT - Copy\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT - Copy\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT - Copy\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT - Copy\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT - Copy\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT - Copy\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT - Copy\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT - Copy\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT - Copy\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT - Copy\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT - Copy\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT - Copy\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT - Copy\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT - Copy\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT - Copy\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT - Copy\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT - Copy\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT - Copy\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT - Copy\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT - Copy\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT - Copy\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT - Copy\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT - Copy\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT - Copy\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT - Copy\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT - Copy\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT - Copy\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT - Copy\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT - Copy\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT - Copy\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT - Copy\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT - Copy\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT - Copy\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT - Copy\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT - Copy\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT - Copy\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT - Copy\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\RecipeWebSite.Service.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT - Copy\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\RecipeWebStie.Core.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT - Copy\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\RecipeWebStie.Data.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT - Copy\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\RecipeWebSite.Service.pdb
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT - Copy\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\RecipeWebStie.Core.pdb
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT - Copy\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\RecipeWebStie.Data.pdb
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT - Copy\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\scopedcss\bundle\RecipeWebSite.styles.css
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT - Copy\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT - Copy\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT - Copy\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT - Copy\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\staticwebassets\msbuild.RecipeWebSite.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT - Copy\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\staticwebassets\msbuild.RecipeWebSite.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT - Copy\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\staticwebassets\msbuild.build.RecipeWebSite.props
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT - Copy\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RecipeWebSite.props
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT - Copy\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.RecipeWebSite.props
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT - Copy\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT - Copy\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT - Copy\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\RecipeWe.554C6D8D.Up2Date
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT - Copy\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\RecipeWebSite.genruntimeconfig.cache
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT - Copy\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\ref\RecipeWebSite.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT -2\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT -2\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\appsettings.json
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT -2\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\RecipeWebSite.staticwebassets.endpoints.json
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT -2\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\RecipeWebSite.exe
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT -2\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\RecipeWebSite.deps.json
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT -2\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\RecipeWebSite.runtimeconfig.json
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT -2\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\RecipeWebSite.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT -2\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\RecipeWebSite.pdb
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT -2\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT -2\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT -2\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Humanizer.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT -2\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT -2\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT -2\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT -2\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT -2\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT -2\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT -2\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT -2\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT -2\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT -2\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT -2\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT -2\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT -2\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT -2\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT -2\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT -2\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT -2\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT -2\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT -2\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT -2\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT -2\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT -2\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT -2\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT -2\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT -2\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT -2\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT -2\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT -2\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT -2\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT -2\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT -2\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT -2\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT -2\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT -2\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT -2\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT -2\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT -2\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT -2\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT -2\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\RecipeWebSite.Service.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT -2\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\RecipeWebStie.Core.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT -2\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\RecipeWebStie.Data.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT -2\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\RecipeWebSite.Service.pdb
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT -2\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\RecipeWebStie.Core.pdb
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT -2\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\RecipeWebStie.Data.pdb
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT -2\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\RecipeWebSite.csproj.AssemblyReference.cache
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT -2\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\RecipeWebSite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT -2\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\RecipeWebSite.AssemblyInfoInputs.cache
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT -2\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\RecipeWebSite.AssemblyInfo.cs
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT -2\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\RecipeWebSite.csproj.CoreCompileInputs.cache
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT -2\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\RecipeWebSite.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT -2\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\RecipeWebSite.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT -2\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\scopedcss\bundle\RecipeWebSite.styles.css
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT -2\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT -2\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT -2\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT -2\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\staticwebassets\msbuild.RecipeWebSite.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT -2\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\staticwebassets\msbuild.RecipeWebSite.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT -2\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\staticwebassets\msbuild.build.RecipeWebSite.props
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT -2\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RecipeWebSite.props
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT -2\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.RecipeWebSite.props
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT -2\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT -2\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT -2\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\RecipeWe.554C6D8D.Up2Date
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT -2\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\RecipeWebSite.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT -2\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\refint\RecipeWebSite.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT -2\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\RecipeWebSite.pdb
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT -2\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\RecipeWebSite.genruntimeconfig.cache
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT -2\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\ref\RecipeWebSite.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 3\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 3\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\appsettings.json
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 3\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\RecipeWebSite.staticwebassets.endpoints.json
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 3\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\RecipeWebSite.exe
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 3\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\RecipeWebSite.deps.json
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 3\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\RecipeWebSite.runtimeconfig.json
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 3\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\RecipeWebSite.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 3\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\RecipeWebSite.pdb
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 3\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 3\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 3\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Humanizer.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 3\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 3\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 3\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 3\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 3\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 3\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 3\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 3\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 3\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 3\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 3\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 3\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 3\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 3\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 3\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 3\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 3\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 3\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 3\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 3\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 3\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 3\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 3\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 3\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 3\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 3\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 3\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 3\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 3\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 3\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 3\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 3\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 3\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 3\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 3\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 3\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 3\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 3\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 3\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\RecipeWebSite.Service.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 3\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\RecipeWebStie.Core.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 3\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\RecipeWebStie.Data.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 3\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\RecipeWebSite.Service.pdb
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 3\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\RecipeWebStie.Core.pdb
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 3\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\RecipeWebStie.Data.pdb
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 3\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\RecipeWebSite.csproj.AssemblyReference.cache
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 3\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\RecipeWebSite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 3\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\RecipeWebSite.AssemblyInfoInputs.cache
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 3\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\RecipeWebSite.AssemblyInfo.cs
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 3\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\RecipeWebSite.csproj.CoreCompileInputs.cache
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 3\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\RecipeWebSite.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 3\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\RecipeWebSite.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 3\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\scopedcss\bundle\RecipeWebSite.styles.css
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 3\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 3\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 3\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 3\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\staticwebassets\msbuild.RecipeWebSite.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 3\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\staticwebassets\msbuild.RecipeWebSite.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 3\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\staticwebassets\msbuild.build.RecipeWebSite.props
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 3\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RecipeWebSite.props
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 3\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.RecipeWebSite.props
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 3\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 3\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 3\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\RecipeWe.554C6D8D.Up2Date
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 3\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\RecipeWebSite.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 3\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\refint\RecipeWebSite.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 3\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\RecipeWebSite.pdb
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 3\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\RecipeWebSite.genruntimeconfig.cache
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 3\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\ref\RecipeWebSite.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 4\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 4\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\appsettings.json
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 4\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\RecipeWebSite.staticwebassets.endpoints.json
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 4\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\RecipeWebSite.exe
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 4\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\RecipeWebSite.deps.json
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 4\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\RecipeWebSite.runtimeconfig.json
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 4\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\RecipeWebSite.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 4\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\RecipeWebSite.pdb
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 4\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 4\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 4\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Humanizer.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 4\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 4\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 4\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 4\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 4\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 4\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 4\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 4\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 4\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 4\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 4\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 4\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 4\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 4\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 4\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 4\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 4\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 4\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 4\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 4\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 4\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 4\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 4\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 4\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 4\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 4\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 4\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 4\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 4\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 4\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 4\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 4\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 4\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 4\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 4\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 4\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 4\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 4\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 4\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\RecipeWebSite.Service.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 4\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\RecipeWebStie.Core.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 4\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\RecipeWebStie.Data.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 4\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\RecipeWebSite.Service.pdb
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 4\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\RecipeWebStie.Core.pdb
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 4\RecipeWebSite\RecipeWebSite\bin\Debug\net6.0\RecipeWebStie.Data.pdb
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 4\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\RecipeWebSite.csproj.AssemblyReference.cache
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 4\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\RecipeWebSite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 4\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\RecipeWebSite.AssemblyInfoInputs.cache
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 4\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\RecipeWebSite.AssemblyInfo.cs
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 4\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\RecipeWebSite.csproj.CoreCompileInputs.cache
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 4\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\RecipeWebSite.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 4\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\RecipeWebSite.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 4\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\scopedcss\bundle\RecipeWebSite.styles.css
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 4\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 4\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 4\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 4\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\staticwebassets\msbuild.RecipeWebSite.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 4\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\staticwebassets\msbuild.RecipeWebSite.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 4\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\staticwebassets\msbuild.build.RecipeWebSite.props
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 4\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.RecipeWebSite.props
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 4\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.RecipeWebSite.props
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 4\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 4\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 4\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\RecipeWe.554C6D8D.Up2Date
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 4\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\RecipeWebSite.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 4\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\refint\RecipeWebSite.dll
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 4\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\RecipeWebSite.pdb
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 4\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\RecipeWebSite.genruntimeconfig.cache
+C:\Users\gavri\Desktop\24-02-25-C# Project -With JWT 4\RecipeWebSite\RecipeWebSite\obj\Debug\net6.0\ref\RecipeWebSite.dll
